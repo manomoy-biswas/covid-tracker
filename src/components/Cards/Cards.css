@@ -1,0 +1,23 @@
+.container{
+  max-width: 1400px;
+}
+.whitebox{
+  background-color: #ffffff;
+  width: 100%;
+  border-radius: 3px;
+  padding: 15px 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.confirmed{
+  border-bottom: 10px solid #ffc107; 
+}
+.active{
+  border-bottom: 10px solid #007bff;
+}
+.recovered{
+  border-bottom: 10px solid #28a745;
+}
+.deceased{
+  border-bottom: 10px solid #dc3545;
+}
